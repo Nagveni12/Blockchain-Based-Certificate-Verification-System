@@ -24,3 +24,12 @@ This project is designed to prevent academic certificate fraud using blockchain 
 5. System checks blockchain and shows authenticity
 
 5.Add Screenshots for reference 
+6.## Screenshots
+
+![Home Page](Screenshots/home.png)
+![Login Page](Screenshots/login.png)
+![Issue Certificate](Screenshots/issue.png)
+![Reader Certificate](Screenshots/reader.png)
+![Verify Certificate](Screenshots/verify.png)
+![View Certificate](Screenshots/view.png)
+![Error](Screenshots/error.png)
